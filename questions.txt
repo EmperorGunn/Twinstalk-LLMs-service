@@ -1,0 +1,13 @@
+Health related issues
+My BMI is 19.6. Is this within the normal range for adult males?
+I often experience back and waist pain. Please tell me the possible causes.
+
+Finance related issues
+Please provide some advice on retirement planning
+
+Robot Manipulation tasks
+Bring me the coffee from the table
+
+Memory testing
+What was the answer of my first question?
+What was my first question?
